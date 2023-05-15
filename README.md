@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Pokedex feito com uso da PokeAPI.
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://rafaelrabello.github.io/Pokedex/)
 
 # 📱 Contato
 rafaeluzan@live.com
